@@ -1,0 +1,10 @@
+{
+  "name": "adidas-runtastic-map-convertor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "author": "Wahackr"
+}
